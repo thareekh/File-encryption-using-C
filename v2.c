@@ -12,7 +12,7 @@ int main(int argc,char **argv)
 
         if(argc!=3)
         {
-                printf("USAGE: ./a.out encrypt/decrypt fileName\n");
+                printf("USAGE: ./xsecure encrypt/decrypt fileName\n");
                 return 1;
         }
 
